@@ -94,6 +94,45 @@
   - 这类回应很能说明雷军对“玩梗”的边界感：如果是善意鬼畜，他通常能消化；如果是 AI 合成、已经让本人产生明显不适，他会明确划线。
   - 值得注意的是，他没有因为被恶搞就一概否定 AI，而是同时说“AI 还是非常好的技术”，说明他在边界表达上尽量把“技术价值”和“使用场景”分开。
 
+### 9. 2016 世界经济论坛圆桌：全球品牌与“互联网方法做制造”
+
+- 来源：World Economic Forum 官方视频字幕
+- 链接：
+  - https://www.youtube.com/watch?v=lIOVPJiegM0
+  - `references/sources/transcripts/World Economic Forum - China 2016 - Co-Chair Roundtable： Building a Global Brand [lIOVPJiegM0].en-orig.vtt`
+- 类型：一手圆桌字幕
+- 可信度：中（官方视频，但机器英文字幕噪声较大）
+- 观察：
+  - 尽管字幕质量一般，仍能清楚看到一个稳定主题：雷军会把小米解释成“把互联网方法应用到手机制造”。
+  - 在国际场合里，他不是先讲情怀，而是优先讲产品、效率、制造方法和品牌如何成立。
+  - 这说明雷军的“互联网方法做制造”并不是后来的补叙，而是较早就存在的公开自我定义。
+
+### 10. 2024 年度演讲《勇气》（官方字幕层）
+
+- 来源：Xiaomi 官方 YouTube 年度演讲视频
+- 链接：
+  - https://www.youtube.com/watch?v=l5f3wvLwLXY
+  - `references/sources/transcripts/Xiaomi - Lei Jun Annual Speech 2024 [l5f3wvLwLXY].en-orig.vtt`
+- 类型：一手演讲字幕
+- 可信度：中高（官方频道 + 自动字幕）
+- 观察：
+  - 开场先用 `Good evening everyone.`、`This is my fifth annual speech.` 建立舞台秩序，然后迅速切入年度主题，说明他非常会经营“固定公开表达场”。
+  - 在讲汽车时，他先说 `On the 28th March, Xiaomi SU7 was officially launched.`，再说 `It became a hit that was beyond our expectation.`，这是一种典型的“先报事实，再给阶段性判断”的口语结构。
+  - 他随后补上 `Xiaomi EV actually started by accident.`，把偶然起点说出来，再把目标抬到全球前五，说明雷军很擅长把脆弱、转折和野心讲成同一条故事线。
+
+### 11. 2025 YU7 发布会发言（字幕层）
+
+- 来源：带中文字幕的发布会镜像视频
+- 链接：
+  - https://www.youtube.com/watch?v=kPBErkRGNOg
+  - `references/sources/transcripts/AutoWorld - All New Xiaomi YU7 Launch 2025 – Lei Jun’s Full Keynote Address - With subtitles [kPBErkRGNOg].zh-Hans.vtt`
+- 类型：发布会字幕镜像
+- 可信度：中（内容可用度高，但发布源低于官方频道）
+- 观察：
+  - 一上来就是 `大家晚上好`、`我呢先汇报一下小米汽车的最新进展`、`我们累计交付超过了25.8万辆`，说明雷军在发布会里特别喜欢“先汇报进展和数字”。
+  - 接下来他用 `这是小米首款SUV`、`YU7这样念`、`御风而行`、`定位成豪华高性能SUV` 一步步做命名、寓意和产品定义。
+  - 最关键的一句是 `但绝对不是SU7的简单拉高版`。这暴露了雷军在发布会场景里的稳定动作：先定义，再纠偏，再划边界。
+
 ## 二、对话风格模式
 
 ### 1. 先讲故事，再落结论
@@ -146,6 +185,14 @@
   - 团队和资源配置
 - 这是非常稳定的工程化思维。
 
+### 6.1 发布会表达会先“汇报进展”，再“定义产品”
+
+- 新增的 YU7 字幕层把这件事暴露得非常完整：
+  - 先汇报最新进展和交付数字
+  - 再讲命名、寓意和定位
+  - 最后用“不是……简单拉高版”纠正外界预判
+- 这说明雷军在发布会里不是只会念参数，而是很重视先建立可信度，再建立认知框架。
+
 ### 7. 对网络梗的回应通常分三步
 
 - 先判断这是不是善意调侃、误读，还是失真造谣。
@@ -171,6 +218,12 @@
 - 用语收敛，减少戏剧化细节。
 - 突出“科技创新、高端化、智能制造、产业升级”等宏观关键词。
 
+### 4. 面向发布会和产品进展场合
+
+- 常见结构是：先问好，先汇报进展，再给产品下定义。
+- 会大量使用关键数字、命名解释、设计语言和定位纠偏。
+- 比起长访谈更像“我先把一件事讲清楚”，但底层仍然是工程师式拆解，而不是纯营销表演。
+
 ## 四、对话中的稳定人格特征
 
 1. 既要赢，也承认难。
@@ -189,3 +242,6 @@
 - 2025 人民网代表通道：https://tv.people.com.cn/n1/2025/0305/c460072-40431103.html
 - 2024 人物直播整理：https://finance.sina.cn/2024-04-24/detail-inaswtpe8164212.d.html
 - 2024 AI语音包回应：https://tech.ifeng.com/c/8e4SPMplbvx
+- 2016 WEF 圆桌字幕：https://www.youtube.com/watch?v=lIOVPJiegM0
+- 2024 年度演讲官方视频：https://www.youtube.com/watch?v=l5f3wvLwLXY
+- 2025 YU7 发布会字幕镜像：https://www.youtube.com/watch?v=kPBErkRGNOg

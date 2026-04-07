@@ -14,7 +14,7 @@
 
 <br>
 
-基于公开言论、官方材料和高质量访谈整理。<br>
+基于公开言论、官方材料、视频字幕、官方微博公开表达和高质量访谈整理。<br>
 不是复读名言，是用他的思维方式帮你判断现实问题。
 
 [看效果](#效果示例) · [安装](#安装) · [他蒸馏了什么](#他蒸馏了什么) · [诚实边界](#诚实边界)
@@ -124,18 +124,24 @@ npx skills add kanoha222/leijun-skill
 
 这一版还单独补了几类高频公众梗与雷军本人的回应，比如 `Are You OK`、`风口上的猪`、`爽文男主 / 冰冷的40亿`、`模仿乔布斯 / 马斯克`、`AI语音包`。重点不是凑热闹，而是让角色扮演知道什么时候该自嘲、什么时候该纠偏、什么时候该划边界。
 
+这次还补上了一层真正的一手原话底座：`references/sources/transcripts/` 里保存了年度演讲、WEF 圆桌、发布会回顾和 YU7 发布会字幕，`references/sources/social/` 里补了官方微博快照。这样仓库不只是在整理观点，也能回到雷军现场怎么开场、怎么报数字、怎么定义产品、怎么回应公众叙事。
+
 ---
 
 ## 素材来源
 
-基于官方材料、年度演讲、公司 IR 页面和高质量媒体整理，核心来源包括：
+基于官方材料、年度演讲、公司 IR 页面、官方/半官方视频字幕和高质量媒体整理，核心来源包括：
 
 | 来源 | 类型 |
 |------|------|
 | 小米 IR 公司简介 / 雷军简介 | 官方资料 |
 | 2021 雷军年度演讲活动页 | 官方资料 |
+| 2024 年度演讲官方 YouTube 视频字幕 | 官方一手口语材料 |
+| 2016 WEF 圆桌官方视频字幕 | 官方一手对话材料 |
+| 2025 小米 Launch March 官方回顾字幕 | 官方发布会补充材料 |
 | 小米 2025Q4 / 全年业绩材料 | 官方资料 |
 | 2025 全国两会“代表通道”发言 | 官方资料 |
+| 雷军官方微博主页快照 | 官方社交媒体表达 |
 | 《我的梦想和使命》整理 | 演讲整理 |
 | 2021 年度演讲整理 | 演讲整理 |
 | 《雷军的10个“不要”心法》 | 方法论整理 |
@@ -144,7 +150,7 @@ npx skills add kanoha222/leijun-skill
 | 36 氪《雷军还得当好一个“网红”》 | 观察报道 |
 | 36 氪《小米新SU7，雷军输不起》 | 观察报道 |
 
-更细的研究拆分见 `references/research/` 目录。
+更细的研究拆分见 `references/research/` 目录；新增的一手素材索引见 `references/sources/transcripts/README.md` 和 `references/sources/social/01-weibo-snapshots-2026-04-07.md`。
 
 ---
 
@@ -162,6 +168,7 @@ npx skills add kanoha222/leijun-skill
 | 替代本人 | 这不是雷军本人，只是基于公开信息提炼出的可运行视角 |
 | 私下判断 | 对监管、私生活、未公开决策没有可靠材料，不适合推断 |
 | 永久最新 | 业务还在变化，尤其是汽车、AI、芯片相关内容会继续演进 |
+| 字幕精度 | 新增的一手口语层包含官方自动字幕和镜像字幕，适合支撑表达模式与主题判断，不应假装成完整逐字稿 |
 | 万能回答器 | 它擅长创业、产品、战略、高端化，不擅长与公开表达无关的话题 |
 
 一个不告诉你边界在哪的 Skill，不值得信任。
@@ -176,13 +183,21 @@ leijun-skill/
 ├── README.md
 ├── LICENSE
 └── references/
-    └── research/
-        ├── 01-writings.md
-        ├── 02-conversations.md
-        ├── 03-expression-dna.md
-        ├── 04-external-views.md
-        ├── 05-decisions.md
-        └── 06-timeline.md
+    ├── research/
+    │   ├── 01-writings.md
+    │   ├── 02-conversations.md
+    │   ├── 03-expression-dna.md
+    │   ├── 04-external-views.md
+    │   ├── 05-decisions.md
+    │   └── 06-timeline.md
+    └── sources/
+        ├── social/
+        │   └── 01-weibo-snapshots-2026-04-07.md
+        └── transcripts/
+            ├── README.md
+            ├── Xiaomi - Lei Jun Annual Speech 2024 [l5f3wvLwLXY].en-orig.vtt
+            ├── World Economic Forum - China 2016 - Co-Chair Roundtable： Building a Global Brand [lIOVPJiegM0].en-orig.vtt
+            └── AutoWorld - All New Xiaomi YU7 Launch 2025 – Lei Jun’s Full Keynote Address - With subtitles [kPBErkRGNOg].zh-Hans.vtt
 ```
 
 ---

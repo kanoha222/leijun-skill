@@ -232,11 +232,51 @@
 - 小米 IR 2025Q4 / 全年业绩材料：
   https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/6-20-53/Xiaomi%20Corp_25Q4_ER_ENG%20vF.pdf
 
+### 15. 在 2024 年度演讲里公开把汽车目标抬到“全球前五”
+
+**背景**：
+- 2024 年度演讲官方字幕里，雷军明确说：`If we cannot become top five in the world, we won't be able to survive in the car industry.`，随后又说 `We have to become the top five in the world.`
+
+**决策逻辑**：
+- 这不是普通发布会口号，而是把汽车业务的胜负标准公开抬高到“全球前五”。
+- 这种讲法很像雷军的典型决策动作：先把生存线说清楚，再把资源投入正当化。
+- 一旦公开这样定义，后续在研发、测试、资金投入和组织节奏上就不能再按“试试看”的方式做。
+
+**结果**：
+- 汽车业务被进一步从“新业务”讲成“小米必须赢下的长期主战场”。
+
+**来源**：
+- Xiaomi 官方 YouTube 年度演讲视频：
+  https://www.youtube.com/watch?v=l5f3wvLwLXY
+- 本地字幕存档：
+  `references/sources/transcripts/Xiaomi - Lei Jun Annual Speech 2024 [l5f3wvLwLXY].en.vtt`
+
+### 16. YU7 的产品定义：不是 SU7 的简单拉高版
+
+**背景**：
+- YU7 发布会字幕里，雷军先汇报汽车最新交付进展，再明确说这是“小米首款SUV”，随后给出 `定位成豪华高性能SUV`，并强调 `但绝对不是SU7的简单拉高版`。
+
+**决策逻辑**：
+- 这说明雷军在产品线扩展时非常在意“新产品到底是不是独立产品定义”，而不是靠老爆款做尺寸外推。
+- 他先用命名和寓意建立感性认知，再用“不是简单拉高版”切断市场可能的偷懒理解。
+- 这本质上是一个产品管理决策：宁可花更多篇幅重建认知，也不接受用户把新车当作旧车变体。
+
+**结果**：
+- YU7 被公开框定为新阶段的独立产品，而不是 SU7 的外形衍生款。
+- 从表达上看，雷军开始把汽车业务从“首款车能不能打响”推进到“产品线如何定义和扩张”。
+
+**来源**：
+- YU7 发布会字幕镜像：
+  https://www.youtube.com/watch?v=kPBErkRGNOg
+- 本地字幕存档：
+  `references/sources/transcripts/AutoWorld - All New Xiaomi YU7 Launch 2025 – Lei Jun’s Full Keynote Address - With subtitles [kPBErkRGNOg].zh-Hans.vtt`
+
 ## 六、决策模式总结
 
 ### 1. 在大方向上赌得很重，但下注前会做足方法论准备
 
 - 手机如此，高端化如此，汽车亦如此。
+- 而且一旦判断成立，他会把目标公开说得非常高，比如“全球前五”，借此反向锁定组织强度。
 
 ### 2. 一旦判断方向正确，就舍得花大钱、给长时间
 
@@ -245,6 +285,7 @@
 ### 3. 第一款产品经常被当作“不能输的样板工程”
 
 - 所以他会反复强调打磨、极致、推倒重来、诚意定价。
+- 即使到了第二款车、第一款 SUV，他也会重新定义，而不是默认沿用旧认知。
 
 ### 4. 既信用户，也信长期复利
 
@@ -264,3 +305,5 @@
 - 36 氪 SU7 专访：https://www.36kr.com/p/2709517831976841
 - 小米 IR 2025Q4 / 全年业绩材料：
   https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/6-20-53/Xiaomi%20Corp_25Q4_ER_ENG%20vF.pdf
+- 2024 年度演讲官方视频：https://www.youtube.com/watch?v=l5f3wvLwLXY
+- 2025 YU7 发布会字幕镜像：https://www.youtube.com/watch?v=kPBErkRGNOg

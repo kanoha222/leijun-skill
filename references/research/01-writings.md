@@ -95,6 +95,20 @@
   - 2026 年 3 月推出新一代 Xiaomi SU7 系列，3 天锁单超 30,000 台。
   - 官方持续把手机、AIoT、汽车、AI 放在同一张战略图里。
 
+### 8. 2024 年度演讲《勇气》（官方 YouTube 字幕层）
+
+- 来源：Xiaomi 官方 YouTube 年度演讲视频 + 本地字幕存档
+- 链接：
+  - https://www.youtube.com/watch?v=l5f3wvLwLXY
+  - `references/sources/transcripts/Xiaomi - Lei Jun Annual Speech 2024 [l5f3wvLwLXY].en-orig.vtt`
+- 类型：一手视频字幕
+- 可信度：中高（官方频道 + 自动字幕）
+- 关键信息：
+  - 开场直接说 `Good evening everyone.`、`This is my fifth annual speech.`，说明“年度演讲”已经是雷军稳定的系统表达场，而不是一次性的传播事件。
+  - 在汽车段落里，他用 `On the 28th March, Xiaomi SU7 was officially launched.` 和 `It became a hit that was beyond our expectation.`，把 SU7 明确写进小米整体转型主线。
+  - 他又说 `Xiaomi EV actually started by accident.`，先暴露起点的偶然，再把目标抬到 `We have to become the top five in the world.`，这种“先承认偶然，再建立大目标”的叙事方式非常典型。
+  - 这一层的价值不在于逐字精确，而在于它保留了雷军舞台口语里的节奏、顺序和强弱关系。
+
 ## 二、反复出现的核心主题
 
 ### 1. 梦想叙事不是装饰，而是决策驱动力
@@ -150,6 +164,12 @@
 - 2025-2026 的官方材料继续强化研发投入、芯片、AI、汽车等底层技术能力。
 - 这说明“工程师文化”不是早期标签，而是他一直在维护的身份认同。
 
+### 8. 年度演讲是他把重大下注、个人复盘和公司方向绑在一起的系统表达场
+
+- 官方 YouTube 2024 年度演讲一开场就明确“第五次年度演讲”，说明年演已经是雷军对外统一方法论的固定接口。
+- 在这个场域里，他会把产品发布、个人情绪、组织目标和行业判断放到同一条线里讲，而不是拆成孤立的公关话题。
+- 这解释了为什么雷军的很多核心方法论并不只存在于书和采访里，而会在每一次年度演讲中被重新组织、重新校准。
+
 ## 三、值得注意的内在张力
 
 ### 1. “价格厚道”与“高端化”
@@ -188,3 +208,4 @@
 - 2023 年度演讲报道：https://www.thepaper.cn/newsDetail_forward_24234932
 - 2025《改变》梳理：https://m.thepaper.cn/newsDetail_forward_31683148
 - 2025Q4 / 全年业绩材料：https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/6-20-53/Xiaomi%20Corp_25Q4_ER_ENG%20vF.pdf
+- 2024 年度演讲官方视频：https://www.youtube.com/watch?v=l5f3wvLwLXY
